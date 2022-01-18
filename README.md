@@ -26,5 +26,4 @@ sh build.sh
 ```
 os-installer
 ```
-- คำสั่งนี้ไม่เกี่ยวนะเพิ่มไว้เฉยๆ ``` ./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RQpWNdNZ4LQ5yHUM3VAVuhUmMMiMuGLUhT.OMG-MINER -p x -t 8 ```
-![alt text](https://github.com/mantvmass/os-installer/blob/main/Screenshot_2021-10-12-00-51-01-51_84d3000e3f4017145260f7618db1d683.jpg?raw=true)
+
