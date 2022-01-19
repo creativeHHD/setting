@@ -1,7 +1,7 @@
 คำสั่งแก้ apt update && apt upgradeไม่ได้
-cd ~/../usr/etc/apt/
-rm -rf sources.list.d
-cd
+1.: cd ~/../usr/etc/apt/
+2.: rm -rf sources.list.d
+3.: cd
 
 version กรณีที่ลง แบบ ตัว ACTIVE v2.2 ไม่ผ่าน
 AUTO BOOT
